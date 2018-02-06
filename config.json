@@ -8,14 +8,18 @@
     },
     "menu": [
         {
-            "label": "Support",
-            "link": "{{base}}/meta/#01_Support"
+            "label": "About",
+            "link": "{{base}}/#01_About"
         },
         {
-            "label": "META Doc on GitHub",
-            "link": "https://github.com/metaplatform/meta-doc",
+            "label": "Course Program",
+            "link": "{{base}}/#02_Program"
+        },
+	{
+	    "label": "ZEN Home Page",
+            "link": "http://ntnu.edu/zen",
             "target": "_blank"
-        }
+	}
     ],
     "footer_links": [
         {
@@ -24,7 +28,7 @@
         },
         {
             "label": "Report an issue",
-            "link": "https://github.com/metaplatform/meta-doc/issues",
+            "link": "https://github.com/KULT-NTNU/ZEN-PhD-Course/issues",
             "target": "_blank"
         }
     ],
