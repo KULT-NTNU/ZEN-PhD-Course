@@ -10,4 +10,4 @@ bla bla
 
 # The program
 
-[A link](to_a_file.docx)
+[A link](bigrams.png)
