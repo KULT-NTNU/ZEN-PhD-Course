@@ -19,7 +19,7 @@ A conference paper (8-15 pages) connecting the candidate's research topic to one
 
 Three 2-day meetings.
 
-## 24.01.2018: ZEN - the whole picture
+# 24.01.2018: ZEN - the whole picture
 
 - 09.00-10.30: Getting to know each other and this PhD course (Thomas)
 - 10.30-11.30: Towards a ZEN definition (Arild, John)
@@ -34,7 +34,7 @@ Three 2-day meetings.
     - WP6: Inger/Thomas
 - 14.45-15.30: What difference can we make? Concluding panel discussion (with the WP representatives)
 
-## 25.01.2018: Energy and CO2: from individual buildings to the European power system
+# 25.01.2018: Energy and CO2: from individual buildings to the European power system
 
 Introductory lectures summarizing basic facts and describing the most common approaches to study.
 
@@ -46,7 +46,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 13.45-14.30: Energy and climate policies on national and international level (Asgeir)
 - 14.30-15.30: System boundaries, holistic approaches and a sound division of labour (Group work/discussion)
 
-## 14.03.2018: Smart cities: planning, design, and implementation
+# 14.03.2018: Smart cities: planning, design, and implementation
 
 - 09.00-10.30: Overview: Modern city planning history (external)
 - 10.45-11.30: Planning tools used in Norway (PISEC)
@@ -56,7 +56,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 14.30-14.45: Coffee
 - 14.45-15.30: Mobility and the city (external)
 
-## 15.03.2018: Miniworkshop: Creating a good neighbourhood/city (Location: Evenstad)
+# 15.03.2018: Miniworkshop: Creating a good neighbourhood/city (Location: Evenstad)
 
 - 05.45-10.28: Common train tour to Evenstad
     - 09.00-09.45: Experiences from the Brøset project (Eli Støa)
@@ -68,7 +68,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 15.00-16.00: Guided tour Evenstad
 - 17.21-22.00: Common train tour til Trondheim
 
-## 23.05.2018: Business models, research and innovation
+# 23.05.2018: Business models, research and innovation
 
 - 09.00-09.45: Marketing "zero emission" (Øystein Moen)
 - 10.00-10.45: Private-public partnerships (Luitzen de Boer)
@@ -78,7 +78,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 13.30-14.15: FMEer as arenas for innovation (Sigmund Størset)
 - 14.30-15.15: ZEN and innovation (Ann Kristin Kvellheim)
 
-## 24.05.2018: Miniconference: ZEN PhD fellows present their course papers
+# 24.05.2018: Miniconference: ZEN PhD fellows present their course papers
 
 - Keynote speaker (external)
 - 10 x 30 m = 5 h
