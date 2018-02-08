@@ -1,8 +1,4 @@
----
-title: ZEN PhD course 2018, Draft
-author: Thomas Berker
-date: Sept. 2017
----
+# About
 
 The course is open for everyone with a master degree (or equivalent) interested in ZEN, it is obligatory for ZEN PhD fellows, ZEN researchers and postdocs are encouraged to join.
 
