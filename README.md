@@ -24,19 +24,11 @@ Two 2-day meetings, one additional meeting and a final conference – if not ind
 - 11.30-12.00: Discussion definition
 - 12.00-13.00: Lunch
 - 13.00-14.30: Why ZEN? Individual contributions from all WPs (15 min each)
-<<<<<<< HEAD
-  - WP2: Asgeir Tomasgaard
-  - WP3: Judith Thomsen
-  - WP4: Igor Sartori [Slides]()
-  - WP5: Ove Wolfgang [Slides]()
-  - WP6: Inger Andresen, Thomas Berker [Slides]()
-=======
 	- WP2: Asgeir Tomasgaard
 	- WP3: Judith Thomsen
 	- WP4: Igor Sartori [Slides]()
 	- WP5: Ove Wolfgang [Slides]()
 	- WP6: Inger Andresen, Thomas Berker [Slides]()
->>>>>>> refs/remotes/origin/synced/master
 - 14.45-15.30: What difference can we make? Concluding panel discussion (with the WP representatives)
 
 ## 02.02.2018
@@ -49,11 +41,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 10.00-11.00: CO2 emissions and buildings (Christofer Skaar) [Slides]()
 - 11.00-12.00: The European power system (Ove Wolfgang) [Slides]()
 - 12.00-13.00: Lunch
-<<<<<<< HEAD
-- 13.00-14.00: Neighbourhood energysystems (Igor Sartori) [Slides]()
-=======
-- 13.00-14.00: Neighbourhood energy	systems (Igor Sartori) [Slides]()
->>>>>>> refs/remotes/origin/synced/master
+- 13.00-14.00: Neighbourhood energy systems (Igor Sartori) [Slides]()
 - 14.00-15.00: Energy and climate policies on national and international level (Asgeir Tomasgaard) [Slides]()
 
 ## 07.03.2018
@@ -63,17 +51,10 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 09.00-10.30: Overview: Modern city planning history (Terje Finstad, KULT, NTNU)
 - 10.45-11.30: Planning tools used in Norway (Brita Fladvad Nielsen, PISEC project, NTNU)
 - 11.30-12.30: Lunch
-<<<<<<< HEAD
-- 12.30-13.30: ICTs and new possibilities for sustainability (Elena  Parmiggiani, IDI, NTNU, tbc)
+- 12.30-13.30: ICTs and newpossibilities for sustainability (Elena Parmiggiani, IDI, NTNU, tbc)
 - 13.30-14.30: Critical perspectives on "smart" cities (Darcy Parks, Tema T, Linköping University)
 - 14.30-14.45: Coffee
-- 14.45-15.30: Group work: Mobility and the city (introduced by Thomas Berker)
-=======
-- 12.30-13.30: ICTs and newpossibilities for sustainability (Elena  Parmiggiani, IDI, NTNU, tbc)
-- 13.30-14.30: Critical perspectives on "smart" cities (Darcy Parks, Tema T, Linköping University)
-- 14.30-14.45: Coffee
-- 14.45-15.30: Group work: Mobility	and the city (introduced by Thomas Berker)
->>>>>>> refs/remotes/origin/synced/master
+- 14.45-15.30: Group work: Mobilityand the city (introduced by Thomas Berker)
 
 ## 08.03.2018
 
@@ -104,13 +85,8 @@ Introductory lectures summarizing basic facts and describing the most common app
 
 **Miniconference: ZEN PhD fellows present their coursepapers**
 
-<<<<<<< HEAD
 - 09.00-10.00: Keynote speaker (N.N.)
 - 12 x 30 m presentations by the participants
-=======
-- Keynote speaker (N.N.)
-- 10 x 30 m presentations by the	participants = 5 h
->>>>>>> refs/remotes/origin/synced/master
 - Conference dinner in the evening
 
 # Literature
