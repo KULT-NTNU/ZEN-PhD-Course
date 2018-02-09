@@ -1,6 +1,6 @@
 # About
 
-The course is open for everyone with a master degree (or equivalent) interested in Zero Emission Neighbourhoods. It is obligatory for ZEN PhD fellows, ZEN researchers and postdocs are welcome to join. 
+The PhD course is open for everyone with a master degree (or equivalent) interested in Zero Emission Neighbourhoods. It is obligatory for ZEN PhD fellows, ZEN researchers and postdocs are welcome to join. 
 
 # Assessment
 
@@ -13,9 +13,10 @@ In both modes the deliverable has to be connected to one of ZEN's pilot areas
 
 # Program
 
-Three 2-day meetings – if not indicated otherwise we meet at Gløshaugen, Sentralbygg 1, 8thf loor.
+Tow 2-day meetings, one additional meeting and a final conference – if not indicated otherwise we meet at Gløshaugen, Sentralbygg 1, 8th floor.
 
-- 01.02.2018: ZEN - the whole picture
+## 01.02.2018: ZEN - the whole picture
+
     - 09.00-10.30: Getting to know each	other and this PhD course (Thomas) [Slides](about.pdf)
     - 10.30-11.30: Towards a ZEN definition (Arild Gustavsen, Inger Andresen) [Slides]()
 	- 11.30-12.00: Discussion definition
