@@ -55,7 +55,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 11.00-12.00: The European power system (Ove Wolfgang) [Slides](Ove2.pptx)
 - 12.00-13.00: Lunch
 - 13.00-14.00: Neighbourhood energy systems (Igor Sartori) [Slides](igor2.pptx)
-- 14.00-15.00: Energy and climate policies on national and international level (Asgeir Tomasgaard) [Slides](tomasgaard.pptx)
+- 14.00-15.00: Energy and climate policies on national and international level (Asgeir Tomasgaard) [Slides](tomasgard.pptx)
 
 ## 07.03.2018
 
@@ -104,7 +104,29 @@ Introductory lectures summarizing basic facts and describing the most common app
 
 # Literature
 
+## Christofer Skaar
+
 - ZEB: [ZEB final report](http://www.zeb.no/index.php/en/news-and-events/292-zeb-final-report)
 - LCA: [Curran (2008) Life-Cycle Assessment. In Encylopedia of Ecology|Human Ecology|Life-Cycle Assessment](https://www.sciencedirect.com/science/referenceworks/9780080454054)
 - LCA: [ILCD handbook](http://eplca.jrc.ec.europa.eu/?page_id=86)
 - [UN Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+
+## Ove Wolfgang
+
+- Graabak I and Korpås M (2016), "Variability Charactheristics of European Wind and Solar Power Resources – A Review", 	Energies.
+- Bye T and Hope E (2005), "Deregulation of electricity markets – The 	Norwegian experience", Discussion Papers No. 433, September 2005
+- Statistics Norway, Research Department.Stortingsmelding 25 (2015-2016), "Kraft til endring – 	Energipolitikken mot 2030" Olje- og energidepartementet. (in Norwegian) 
+- OJ L 197/24 (2015), "Establishing a guideline on capacity allocation and congestion management", text with EEA relevance.
+- EU commission (2011), "Impact Assessment accompanying the document Energy Roadmap 2050", Commission staff working paper, SEC(2011), 1565/2. Part 1/2.
+
+## Igor Sartori
+
+- Wiik et al. (2018) Zero Emission Neighbourhoods in Smart Cities: Definition, Key Performance Indicators and Assessment Criteria, Version 1.0. ZEN report.
+- Wiik et al. (2018) A ZEN Guideline for the ZEN Pilot Areas, Version 1.0. ZEN report.
+- ISO 52000-1 (2017) Energy performance of buildings - Overarching EPB assessment. Part 1: General framework and procedures
+- NS/TS 3130 (2016) Bygningers energiytelse - Beregning av energibehov og energiforsyning. Teknisk spesifikasjon.
+- Luthander, R., Widén, J., Nilsson, D. and Palm, J. (2015) Photovoltaic self-consumption in buildings: A review, Applied Energy, (142) 80-94. 
+- Salom, J., Marszal, A.J., Widén, J., Candanedo, J. and Lindberg, K.B. (2014) Analysis of load match and grid interaction indicators in net zero energy buildings with simulated and monitored data, Applied Energy, (136) 119-131 
+- Salom, J., Marszal, A. J., Candanedo, J., Widén, J., Lindberg, K. B. and Sartori, I. (2013) Analysis of Load Match and Grid Interaction Indicators in Net Zero Energy Buildings with High-Resolution Data, subtask A report in IEA SHC Task40 / EBC Annex 52 Towards Net Zero Energy Solar Buildings.
+- Junker et al. (2018) Characterizing the Energy Flexibility of Buildings and Districts. Submitted to Applied Energy.
+
