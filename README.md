@@ -5,6 +5,8 @@ Please participate in the Doodle for:
 - the [April meeting](https://doodle.com/poll/vu95358tvcr9zt45)
 - the [final meeting/conference](https://doodle.com/poll/88zdnp3iyt3fptay) 
 
+The polls close February, 23.
+
 # About the course
 
 This PhD course is open for everyone with a master degree (or equivalent) interested in Zero Emission Neighbourhoods. It is obligatory for ZEN PhD fellows, ZEN researchers and postdocs are welcome to join. 
