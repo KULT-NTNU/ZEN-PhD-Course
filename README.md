@@ -66,8 +66,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 11.30-12.30: Lunch
 - 12.30-13.30: ICTs and newpossibilities for sustainability (Elena Parmiggiani, IDI, NTNU, tbc)
 - 13.30-14.30: Climate-Smart Cities: A corporate takeover of urban climate governance? (Darcy Parks, Tema T, Linköping University)
-- 14.30-14.45: Coffee
-- 14.45-15.30: Group work: Mobilityand the city (introduced by Thomas Berker)
+- 14.30-15.30: Guided tour [ZEB Test Cell Laboratory](http://www.zeb.no/index.php/en/test-cell-laboratory)
 
 ## 08.03.2018
 
