@@ -13,7 +13,7 @@ This PhD course is open for everyone with a master degree (or equivalent) intere
 
 ## Teaching goal
 
-Creating Zero Emission Neighbourhoods is an interdisciplinary task. The course reflects this by conveying basic knowledge and skills that every PhD student working with ZEN-related topics should have, but we also include knowledge which helps the students to relate their specific projects within a larger societal and historical context. In this sense the course is advanced not in the sense of going into depth in selected topics but rather because it provides a broad overview of relevant topics. 
+Creating Zero Emission Neighbourhoods is an interdisciplinary task. The course reflects this by conveying basic knowledge and skills that every PhD student working with ZEN-related topics should have, but we also include knowledge which helps the students to relate their specific projects within a larger societal and historical context. In this sense the course is advanced not by going into depth in selected topics but rather because it provides a broad overview of relevant topics. 
 
 ## Assessment
 
