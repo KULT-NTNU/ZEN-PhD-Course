@@ -24,15 +24,15 @@ Two 2-day meetings, one additional meeting and a final conference – if not ind
 **ZEN - the whole picture**
 
 - 09.00-10.30: Getting to know each	other and this PhD course (Thomas Berker) [Slides](about.pdf)
-- 10.30-11.30: Towards a ZEN definition (Arild Gustavsen, Inger Andresen) [Slides]()
+- 10.30-11.30: Towards a ZEN definition (Arild Gustavsen, Inger Andresen) [Slides](inger1.pptx)
 - 11.30-12.00: Discussion definition
 - 12.00-13.00: Lunch
 - 13.00-14.30: Why ZEN? Individual contributions from all WPs (15 min each)
 	- WP2: Asgeir Tomasgaard
-	- WP3: Judith Thomsen
-	- WP4: Igor Sartori [Slides]()
-	- WP5: Ove Wolfgang [Slides]()
-	- WP6: Inger Andresen, Thomas Berker [Slides]()
+	- WP3: Judith Thomsen [Slides](judith.pptx)
+	- WP4: Igor Sartori [Slides](igor1.pptx)
+	- WP5: Ove Wolfgang
+	- WP6: Inger Andresen, Thomas Berker [Slides](inger2.pptx)
 - 14.45-15.30: What difference can we make? Concluding panel discussion (with the WP representatives)
 
 ## 02.02.2018
@@ -42,11 +42,11 @@ Two 2-day meetings, one additional meeting and a final conference – if not ind
 Introductory lectures summarizing basic facts and describing the most common approaches to study.
 
 - 09.00-10.00: Guided tour ZEN living lab (Thomas Berker)
-- 10.00-11.00: CO2 emissions and buildings (Christofer Skaar) [Slides]()
-- 11.00-12.00: The European power system (Ove Wolfgang) [Slides]()
+- 10.00-11.00: CO2 emissions and buildings (Christofer Skaar) [Slides](skaar.pdf)
+- 11.00-12.00: The European power system (Ove Wolfgang) [Slides](Ove2.pptx)
 - 12.00-13.00: Lunch
-- 13.00-14.00: Neighbourhood energy systems (Igor Sartori) [Slides]()
-- 14.00-15.00: Energy and climate policies on national and international level (Asgeir Tomasgaard) [Slides]()
+- 13.00-14.00: Neighbourhood energy systems (Igor Sartori) [Slides](igor2.pptx)
+- 14.00-15.00: Energy and climate policies on national and international level (Asgeir Tomasgaard) [Slides](tomasgaard.pptx)
 
 ## 07.03.2018
 
@@ -56,7 +56,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 10.45-11.30: Planning tools used in Norway (Brita Fladvad Nielsen, PISEC project, NTNU)
 - 11.30-12.30: Lunch
 - 12.30-13.30: ICTs and newpossibilities for sustainability (Elena Parmiggiani, IDI, NTNU, tbc)
-- 13.30-14.30: Critical perspectives on "smart" cities (Darcy Parks, Tema T, Linköping University)
+- 13.30-14.30: Climate-Smart Cities: A corporate takeover of urban climate governance? (Darcy Parks, Tema T, Linköping University)
 - 14.30-14.45: Coffee
 - 14.45-15.30: Group work: Mobilityand the city (introduced by Thomas Berker)
 
@@ -94,3 +94,8 @@ Introductory lectures summarizing basic facts and describing the most common app
 - Conference dinner in the evening
 
 # Literature
+
+- ZEB: [ZEB final report](http://www.zeb.no/index.php/en/news-and-events/292-zeb-final-report)
+- LCA: [Curran (2008) Life-Cycle Assessment. In Encylopedia of Ecology|Human Ecology|Life-Cycle Assessment](https://www.sciencedirect.com/science/referenceworks/9780080454054)
+- LCA: [ILCD handbook](http://eplca.jrc.ec.europa.eu/?page_id=86)
+- [UN Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/)
