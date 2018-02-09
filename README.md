@@ -1,12 +1,12 @@
-# About
+# About the course
 
-The PhD course is open for everyone with a master degree (or equivalent) interested in Zero Emission Neighbourhoods. It is obligatory for ZEN PhD fellows, ZEN researchers and postdocs are welcome to join. 
+This PhD course is open for everyone with a master degree (or equivalent) interested in Zero Emission Neighbourhoods. It is obligatory for ZEN PhD fellows, ZEN researchers and postdocs are welcome to join. 
 
 ## Teaching goal
 
 Creating Zero Emission Neighbourhoods is an interdisciplinary task. We therefore will focus both on conveying basic knowledge and skills needed and on meta-knowledge. The course is advanced not in the sense of going into depth in selected topics but rather because it provides a broad overview of relevant topics. 
 
-# Assessment
+## Assessment
 
 There are two modes of participation that will be awarded with 7.5 ECT: 
 
