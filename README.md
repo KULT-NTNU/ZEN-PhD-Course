@@ -15,7 +15,9 @@ In both modes the deliverable has to be connected to one of ZEN's pilot areas
 
 Two 2-day meetings, one additional meeting and a final conference – if not indicated otherwise we meet at Gløshaugen, Sentralbygg 1, 8th floor.
 
-## 01.02.2018: ZEN - the whole picture
+## 01.02.2018
+
+**ZEN - the whole picture**
 
 - 09.00-10.30: Getting to know each	other and this PhD course (Thomas Berker) [Slides](about.pdf)
 - 10.30-11.30: Towards a ZEN definition (Arild Gustavsen, Inger Andresen) [Slides]()
@@ -29,7 +31,9 @@ Two 2-day meetings, one additional meeting and a final conference – if not ind
 	- WP6: Inger Andresen, Thomas Berker [Slides]()
 - 14.45-15.30: What difference can we make? Concluding panel discussion (with the WP representatives)
 
-## 02.02.2018: Energy and CO2: fromindividual buildings to the European power system: 
+## 02.02.2018
+
+**Energy and CO2: fromindividual buildings to the European power system**
 
 Introductory lectures summarizing basic facts and describing the most common approaches to study.
 
@@ -40,7 +44,9 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 13.00-14.00: Neighbourhood energy	systems (Igor Sartori) [Slides]()
 - 14.00-15.00: Energy and climate policies on national and international level (Asgeir Tomasgaard) [Slides]()
 
-## 07.03.2018: Smart cities: planning,design, and implementation
+## 07.03.2018
+
+**Smart cities: planning,design, and implementation**
 
 - 09.00-10.30: Overview: Modern city planning history (Terje Finstad, KULT, NTNU)
 - 10.45-11.30: Planning tools used in Norway (Brita Fladvad Nielsen, PISEC project, NTNU)
@@ -50,7 +56,9 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 14.30-14.45: Coffee
 - 14.45-15.30: Group work: Mobility	and the city (introduced by Thomas Berker)
 
-## 08.03.2018: Miniworkshop: Planning agood neighbourhood/city (Location: Evenstad)
+## 08.03.2018
+
+**Miniworkshop: Planning agood neighbourhood/city (Location: Evenstad)**
 
 - 05.45-10.28: Train tour to Evenstad
 - 11.00-11.30: Living labs in the ZEN centre (Ruth Woods, NTNU)
@@ -61,7 +69,9 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 15.00-16.00: Guided tour Evenstad
 - 17.21-22.00: Train tour to Trondheim
 
-## April 2018: Science, research and innovation
+## April 2018
+
+**Science, research and innovation**
 
 - 09.00-09.45: Marketing "zero emission" (Øystein Moen, tbc)
 - 10.00-10.45: Private-public partnerships (Luitzen de Boer, tbc)
@@ -71,7 +81,9 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 13.30-14.15: FMEer as arenas for innovation (Sigmund Størset, tbc)
 - 14.30-15.15: Energy vs buildings? Building bridges between two worlds  (Ann Kristin Kvellheim, tbc)
 
-## May 2018: Miniconference: ZEN PhD fellows present their coursepapers
+## May 2018
+
+**Miniconference: ZEN PhD fellows present their coursepapers**
 
 - Keynote speaker (N.N.)
 - 10 x 30 m presentations by the	participants = 5 h
