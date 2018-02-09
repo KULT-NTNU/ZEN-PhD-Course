@@ -17,7 +17,7 @@ Tow 2-day meetings, one additional meeting and a final conference – if not ind
 
 ## 01.02.2018: ZEN - the whole picture
 
-    - 09.00-10.30: Getting to know each	other and this PhD course (Thomas) [Slides](about.pdf)
+- 09.00-10.30: Getting to know each	other and this PhD course (Thomas) [Slides](about.pdf)
     - 10.30-11.30: Towards a ZEN definition (Arild Gustavsen, Inger Andresen) [Slides]()
 	- 11.30-12.00: Discussion definition
 	- 12.00-13.00: Lunch
