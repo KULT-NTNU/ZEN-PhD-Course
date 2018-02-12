@@ -64,7 +64,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 09.00-10.30: Overview: Modern city planning history (Terje Finstad, KULT, NTNU)
 - 10.45-11.30: Planning tools used in Norway (Brita Fladvad Nielsen, PISEC project, NTNU)
 - 11.30-12.30: Lunch
-- 12.30-13.30: ICTs and newpossibilities for sustainability (Elena Parmiggiani, IDI, NTNU, tbc)
+- 12.30-13.30: Privacy protection in smart cities (Norwegian Data Inspectorate, tbc)
 - 13.30-14.30: Climate-Smart Cities: A corporate takeover of urban climate governance? (Darcy Parks, Tema T, Linköping University)
 - 14.30-15.30: Guided tour [ZEB Test Cell Laboratory](http://www.zeb.no/index.php/en/test-cell-laboratory)
 
@@ -77,7 +77,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 11.30-12.15: Erfaringer fra Ydalir så langt (Anna-Thekla Tonjer)
 - 12.15-13.00: Lunch
 - 13.00-14.00: Round table with local PhD students: Energy, sustainability, ecology - differences and common concerns
-- 14.00-15.00: Furuset (Stein Stoknes, Birgit Rusten, Futurebuilt or Trond Moengen, tbc)
+- 14.00-15.00: Furuset (Trond Moengen, tbc)
 - 15.00-16.00: Guided tour Evenstad
 - 17.21-22.00: Train tour to Trondheim
 
