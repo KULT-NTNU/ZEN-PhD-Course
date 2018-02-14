@@ -73,12 +73,11 @@ Introductory lectures summarizing basic facts and describing the most common app
 **Miniworkshop: Planning agood neighbourhood/city (Location: Evenstad)**
 
 - 05.45-10.28: Train tour to Evenstad
-- 11.00-11.30: Living labs in the ZEN centre (Ruth Woods, NTNU)
+- 11.00-11.30: Pilots and Living labs in the ZEN centre (Thomas Berker, Ruth Woods, NTNU)
 - 11.30-12.15: Erfaringer fra Ydalir så langt (Anna-Thekla Tonjer)
 - 12.15-13.00: Lunch
-- 13.00-14.00: Round table with local PhD students: Energy, sustainability, ecology - differences and common concerns
-- 14.00-15.00: Furuset (Trond Moengen, tbc)
-- 15.00-16.00: Guided tour Evenstad
+- 13.00-14.00: Guided tour Evenstad
+- 14.00-16.00: Group work about Evenstad and Ydalir
 - 17.21-22.00: Train tour to Trondheim
 
 ## April 2018
