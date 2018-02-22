@@ -17,7 +17,7 @@ Creating Zero Emission Neighbourhoods is an interdisciplinary task. The course r
 
 ## Assessment
 
-There are two modes of participation that will be awarded with 7.5 ECT: 
+You can choose between two modes of participation that will be awarded with 7.5 ECT: 
 
 - Written final report (15-20 pages) based on literature used in lectures and your own project
 - Participation in 66% of meetings + conference paper (8-10 pages) + presentation of paper in final "conference"
@@ -61,11 +61,11 @@ Introductory lectures summarizing basic facts and describing the most common app
 
 **Smart cities: planning,design, and implementation**
 
-- 09.00-10.30: Overview: Modern city planning history (Terje Finstad, KULT, NTNU)
+- 09.00-10.30: Overview: Modern city planning history (Terje Finstad, NTNU)
 - 10.45-11.30: Planning tools used in Norway (Brita Fladvad Nielsen, PISEC project, NTNU)
 - 11.30-12.30: Lunch
-- 12.30-13.30: Privacy protection in smart cities (Norwegian Data Inspectorate, tbc)
-- 13.30-14.30: Climate-Smart Cities: A corporate takeover of urban climate governance? (Darcy Parks, Tema T, Linköping University)
+- 12.30-13.15: *Smart* cities, the ICT perspective (introduced by Thomas Berker)
+- 13.15-14.15: Climate-Smart Cities: A corporate takeover of urban climate governance? (Darcy Parks, Tema T, Linköping University)
 - 14.30-15.30: Guided tour [ZEB Test Cell Laboratory](http://www.zeb.no/index.php/en/test-cell-laboratory)
 
 ## 08.03.2018
