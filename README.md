@@ -1,11 +1,9 @@
 # News
 
-Please participate in the Doodle for:
+Doodle has spoken:
 
-- the [April meeting](https://doodle.com/poll/vu95358tvcr9zt45)
-- the [final meeting/conference](https://doodle.com/poll/88zdnp3iyt3fptay) 
-
-The polls close February, 23.
+- the [April meeting](https://doodle.com/poll/vu95358tvcr9zt45): is 25. April (sorry Eirik!)
+- the [final meeting/conference](https://doodle.com/poll/88zdnp3iyt3fptay): is 30. May (sorry Biljana!)
 
 # About the course
 
