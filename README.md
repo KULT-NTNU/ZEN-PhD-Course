@@ -2,8 +2,8 @@
 
 Doodle has spoken:
 
-- the [April meeting](https://doodle.com/poll/vu95358tvcr9zt45): is 25. April (sorry Eirik!)
-- the [final meeting/conference](https://doodle.com/poll/88zdnp3iyt3fptay): is 30. May (sorry Biljana!)
+- the [April meeting](https://doodle.com/poll/vu95358tvcr9zt45): is 25. April
+- the [final meeting/conference](https://doodle.com/poll/88zdnp3iyt3fptay): is 30. May
 
 # About the course
 
@@ -78,7 +78,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 14.00-16.00: Group work about Evenstad and Ydalir
 - 17.21-22.00: Train tour to Trondheim
 
-## April 2018
+## 25. April 2018
 
 **Science, research and innovation**
 
@@ -90,7 +90,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 13.30-14.15: FMEer as arenas for innovation (Sigmund Størset, tbc)
 - 14.30-15.15: Energy vs buildings? Building bridges between two worlds  (Ann Kristin Kvellheim, tbc)
 
-## May 2018
+## 30. May 2018
 
 **Miniconference: ZEN PhD fellows present their coursepapers**
 
