@@ -64,7 +64,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 **Smart cities: planning, design, and implementation**
 
 - 09.00-10.30: Overview: Modern city planning history (Terje Finstad, NTNU)
-- 10.45-11.30: Planning tools used in Norway (Brita Fladvad Nielsen, PISEC project, NTNU)
+- 10.45-11.30: Planning Instruments for Smart Energy Communities (Brita Fladvad Nielsen, PISEC project, NTNU)
 - 11.30-12.15: *Smart* cities, the ICT perspective, part I (introduced by Thomas Berker)
 - 12.15-13.00: Lunch
 - 13.00-13.30: *Smart* cities, the ICT perspective, part II
