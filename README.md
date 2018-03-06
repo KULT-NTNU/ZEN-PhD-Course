@@ -1,6 +1,8 @@
 # News
 
-## There will be a taxi pick-up service on Thursday morning. We will use lunch on Wednesday to plan this.
+## Taxi
+
+There will be a taxi pick-up service on Thursday morning. We will use lunch on Wednesday to plan this.
 
 ## Doodle has spoken:
 
