@@ -1,6 +1,8 @@
 # News
 
-Doodle has spoken:
+## There will be a taxi pick-up service on Thursday morning. We will use lunch on Wednesday to plan this.
+
+## Doodle has spoken:
 
 - the [April meeting](https://doodle.com/poll/vu95358tvcr9zt45): is 25. April
 - the [final meeting/conference](https://doodle.com/poll/88zdnp3iyt3fptay): is 30. May
@@ -57,18 +59,19 @@ Introductory lectures summarizing basic facts and describing the most common app
 
 ## 07.03.2018
 
-**Smart cities: planning,design, and implementation**
+**Smart cities: planning, design, and implementation**
 
 - 09.00-10.30: Overview: Modern city planning history (Terje Finstad, NTNU)
 - 10.45-11.30: Planning tools used in Norway (Brita Fladvad Nielsen, PISEC project, NTNU)
-- 11.30-12.30: Lunch
-- 12.30-13.15: *Smart* cities, the ICT perspective (introduced by Thomas Berker)
+- 11.30-12.15: *Smart* cities, the ICT perspective, part I (introduced by Thomas Berker)
+- 12.15-13.00: Lunch
+- 13.00-13.30: *Smart* cities, the ICT perspective, part II
 - 13.15-14.15: Climate-Smart Cities: A corporate takeover of urban climate governance? (Darcy Parks, Tema T, Linköping University)
 - 14.30-15.30: Guided tour [ZEB Test Cell Laboratory](http://www.zeb.no/index.php/en/test-cell-laboratory)
 
 ## 08.03.2018
 
-**Miniworkshop: Planning agood neighbourhood/city (Location: Evenstad)**
+**Miniworkshop: Planning a good campus/neighbourhood/city (Location: Evenstad)**
 
 - 05.45-10.28: Train tour to Evenstad
 - 11.00-11.30: Pilots and Living labs in the ZEN centre (Thomas Berker, Ruth Woods, NTNU)
