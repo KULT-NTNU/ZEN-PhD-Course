@@ -67,8 +67,8 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 09.15-10.30: A short history of modern city planning (Terje Finstad, NTNU)
 - 10.45-11.30: Planning Instruments for Smart Energy Communities (Brita Fladvad Nielsen, PISEC project, NTNU)
 - 11.30-12.15: *Smart* cities, the ICT perspective, part I (introduced by Thomas Berker)
-- 12.15-13.00: Lunch
-- 13.00-13.30: *Smart* cities, the ICT perspective, part II
+- 12.15-12.45: Lunch
+- 12.45-13.15: *Smart* cities, the ICT perspective, part II
 - 13.15-14.15: Climate-Smart Cities: A corporate takeover of urban climate governance? (Darcy Parks, Tema T, Linköping University)
 - 14.30-15.30: Guided tour [ZEB Test Cell Laboratory](http://www.zeb.no/index.php/en/test-cell-laboratory)
 
