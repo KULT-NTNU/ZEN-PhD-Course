@@ -73,7 +73,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 **Miniworkshop: Planning a good campus/neighbourhood/city (Location: Evenstad)**
 
 - 05.45-10.28: Train tour to Evenstad
-- 11.00-11.30: Pilots and Living labs in the ZEN centre (Thomas Berker, Ruth Woods, NTNU, [slides](pilot-lls.pdf)
+- 11.00-11.30: Pilots and Living labs in the ZEN centre (Thomas Berker, Ruth Woods, NTNU, [slides](pilots-lls.pdf)
 - 11.30-12.15: Erfaringer fra Ydalir så langt (Anna-Thekla Tonjer)
 - 12.15-13.00: Lunch
 - 13.00-14.00: Guided tour Evenstad
