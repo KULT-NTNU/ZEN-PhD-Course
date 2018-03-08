@@ -128,3 +128,11 @@ Introductory lectures summarizing basic facts and describing the most common app
 - Salom, J., Marszal, A. J., Candanedo, J., Widén, J., Lindberg, K. B. and Sartori, I. (2013) Analysis of Load Match and Grid Interaction Indicators in Net Zero Energy Buildings with High-Resolution Data, subtask A report in IEA SHC Task40 / EBC Annex 52 Towards Net Zero Energy Solar Buildings.
 - Junker et al. (2018) Characterizing the Energy Flexibility of Buildings and Districts. Submitted to Applied Energy.
 
+## Thomas Berker
+
+
+- Berker, Thomas, and Ann Kristin Kvellheim. “Boundary Objects As Facilitators in Sustainable Building Research.” Science and Public Policy. Accessed January 17, 2018. https://doi.org/10.1093/scipol/scx057.
+- Farmer, Graham. “From Differentiation to Concretisation: Integrative Experiments in Sustainable Architecture.” Societies 7, no. 4 (December 19, 2017): 35. https://doi.org/10.3390/soc7040035.
+- Star, Susan Leigh, and James Richard Griesemer. “Institutional Ecology, ‘translations’ and Boundary Objects: Amateurs and Professionals in Berkeley’s Museum of Vertebrate Zoology, 1907-39.” Social Studies of Science 19 (1989): 387–420
+
+
