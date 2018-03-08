@@ -1,9 +1,5 @@
 # News
 
-## Taxi
-
-There will be a taxi pick-up service on Thursday morning. We will use lunch on Wednesday to plan this.
-
 ## Doodle has spoken:
 
 - the [April meeting](https://doodle.com/poll/vu95358tvcr9zt45): is 25. April
@@ -77,11 +73,11 @@ Introductory lectures summarizing basic facts and describing the most common app
 **Miniworkshop: Planning a good campus/neighbourhood/city (Location: Evenstad)**
 
 - 05.45-10.28: Train tour to Evenstad
-- 11.00-11.30: Pilots and Living labs in the ZEN centre (Thomas Berker, Ruth Woods, NTNU)
+- 11.00-11.30: Pilots and Living labs in the ZEN centre (Thomas Berker, Ruth Woods, NTNU, [slides](pilot-lls.pdf)
 - 11.30-12.15: Erfaringer fra Ydalir så langt (Anna-Thekla Tonjer)
 - 12.15-13.00: Lunch
 - 13.00-14.00: Guided tour Evenstad
-- 14.00-16.00: Group work about Evenstad and Ydalir
+- 14.00-16.00: Group work
 - 17.21-22.00: Train tour to Trondheim
 
 ## 25. April 2018
