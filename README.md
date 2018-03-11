@@ -1,5 +1,9 @@
 # News
 
+## The winner is...
+
+The international interdisciplinary panel needs a little more time because of the extraordinarily high quality of the project propsal.
+
 ## Doodle has spoken:
 
 - the [April meeting](https://doodle.com/poll/vu95358tvcr9zt45): is 25. April
