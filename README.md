@@ -69,7 +69,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - 11.30-12.15: *Smart* cities, the ICT perspective, part I (introduced by Thomas Berker)
 - 12.15-12.45: Lunch
 - 12.45-13.15: *Smart* cities, the ICT perspective, part II
-- 13.15-14.15: Climate-Smart Cities: A corporate takeover of urban climate governance? (Darcy Parks, Tema T, Linköping University)
+- 13.15-14.15: Climate-Smart Cities: A corporate takeover of urban climate governance? (Darcy Parks, Tema T, Linköping University, [slides](https://liuonline-my.sharepoint.com/:p:/g/personal/darpa32_liu_se/EYGcQJrWmdpBs6Q4pYN5ZmEBVij888_IP6O6YTKS4E3iVw?e=h8C7jU)
 - 14.30-15.30: Guided tour [ZEB Test Cell Laboratory](http://www.zeb.no/index.php/en/test-cell-laboratory)
 
 ## 08.03.2018
@@ -139,4 +139,10 @@ Introductory lectures summarizing basic facts and describing the most common app
 - Farmer, Graham. “From Differentiation to Concretisation: Integrative Experiments in Sustainable Architecture.” Societies 7, no. 4 (December 19, 2017): 35. https://doi.org/10.3390/soc7040035.
 - Star, Susan Leigh, and James Richard Griesemer. “Institutional Ecology, ‘translations’ and Boundary Objects: Amateurs and Professionals in Berkeley’s Museum of Vertebrate Zoology, 1907-39.” Social Studies of Science 19 (1989): 387–420
 
+## Darcy Parks
 
+- Kitchin, Rob. 2014. "The Real-Time City? Big Data and Smart Urbanism." GeoJournal 79(1):1-14. https://link.springer.com/article/10.1007/s10708-013-9516-8
+- Söderström, Ola, Till Paasche, and Francisco Klauser. 2014. "Smart Cities as Corporate Storytelling." City 18(3):307-20. https://dx.doi.org/10.1080/13604813.2014.906716
+- Vanolo, Alberto. 2014. "Smartmentality: The Smart City as Disciplinary Strategy." Urban Studies 51(5):883-98. http://usj.sagepub.com/content/51/5/883
+- Giffinger, Rudolf et al. 2007. "Smart Cities: Ranking of European Medium-Sized Cities." Retrieved May 15, 2014 (http://www.smart-cities.eu/download/smart_cities_final_report.pdf). 
+- Höjer, Mattias and Josefin Wangel. 2015. "Smart Sustainable Cities: Definition and Challenges." Pp. 333-49 in ICT Innovations for Sustainability, Advances in Intelligent Systems and Computing, edited by L. M. Hilty and B. Aebischer. Springer International Publishing. http://link.springer.com/chapter/10.1007/978-3-319-09228-7_20
