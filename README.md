@@ -90,7 +90,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 
 - 09.00-09.45: Marketing "zero emission" (Øystein Moen, tbc)
 - 10.00-10.45: Private-public partnerships (Luitzen de Boer, tbc)
-- 11.00-11.45: Responsible Research and Innovation  (RRI, Gisle Solbu, KULT, NTNU, tbc)
+- 11.00-11.45: Responsible Research and Innovation  (RRI, Raffael Himmelsbach, KULT, NTNU)
 - 11.45-12.30: Lunch
 - 12.30-13.15: Innovation theory and the history of innovation (Thomas Berker)
 - 13.30-14.15: FMEer as arenas for innovation (Sigmund Størset, tbc)
