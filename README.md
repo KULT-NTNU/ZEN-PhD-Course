@@ -88,7 +88,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 
 **Science, research and innovation**
 
-- 09.00-09.30: Intro til dagen (Thomas Berker)
+- 09.00-09.30: Introduction (Thomas Berker)
 - 09.30-10.30: WP2@ZEN (Luitzen de Boer, tbc)
 - 10.30-11.00: Innovation theories I: the beginnings (Thomas Berker)
 - 11.00-12.00: Responsible Research and Innovation  (RRI, Raffael Himmelsbach, KULT, NTNU)
