@@ -88,13 +88,14 @@ Introductory lectures summarizing basic facts and describing the most common app
 
 **Science, research and innovation**
 
-- 09.00-09.45: Marketing "zero emission" (Øystein Moen, tbc)
-- 10.00-10.45: Private-public partnerships (Luitzen de Boer, tbc)
-- 11.00-11.45: Responsible Research and Innovation  (RRI, Raffael Himmelsbach, KULT, NTNU)
-- 11.45-12.30: Lunch
-- 12.30-13.15: Innovation theory and the history of innovation (Thomas Berker)
-- 13.30-14.15: FMEer as arenas for innovation (Sigmund Størset, tbc)
-- 14.30-15.15: Energy vs buildings? Building bridges between two worlds  (Ann Kristin Kvellheim, tbc)
+- 09.00-09.30: Intro til dagen (Thomas Berker)
+- 09.30-10.30: WP2@ZEN (Luitzen de Boer, tbc)
+- 10.30-11.00: Innovation theories I: the beginnings (Thomas Berker)
+- 11.00-12.00: Responsible Research and Innovation  (RRI, Raffael Himmelsbach, KULT, NTNU)
+- 12.00-13.00: Lunch
+- 13.00-14.00: Innovation demand in Norwegian municipalities (Brita Fladvad Nielsen, AD, PiSEC)
+- 14.00-14.30: Innovation theories II: Current developments (Thomas Berker)
+- 14.30-15.15: Sustainable transitions (Tomas Skjølsvold, CenSES, NTNU, tbc)
 
 ## 30. May 2018
 
