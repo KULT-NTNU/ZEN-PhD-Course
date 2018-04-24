@@ -88,13 +88,11 @@ Introductory lectures summarizing basic facts and describing the most common app
 
 **Science, research and innovation**
 
-- 09.00-09.30: Introduction, information about the conference paper and the report (Thomas Berker)
 - 09.30-10.30: WP2@ZEN (Luitzen de Boer, tbc)
-- 10.30-11.00: Innovation theories I: the beginnings (Thomas Berker)
-- 11.00-12.00: Responsible Research and Innovation  (RRI, Raffael Himmelsbach, KULT, NTNU)
+- 10.30-11.00: Discussion
 - 12.00-13.00: Lunch
 - 13.00-14.00: Planning tools in Norwegian municipalities (Brita Fladvad Nielsen, AD, PiSEC)
-- 14.00-14.30: Innovation theories II: Current developments (Thomas Berker)
+- 14.00-14.30: Discussion
 - 14.30-15.15: Sustainable transitions (Tomas Skjølsvold, CenSES, NTNU)
 
 ## 30. May 2018
