@@ -32,6 +32,8 @@ The assessment of the papers and reports will be organized as peer review proces
 
 Submission happens through e-mail to thomas.berker@ntnu.no, please indicate by 15 May 2018 whether you would like to present at the final course "conference".
 
+Since we are not planning to publish your papers and reports you are free to publish them elsewhere. Your submission to the course may not be included as a whole in the PhD thesis, e.g. just submitting a paper that you were writing for your thesis anyway is not acceptable. However, it is no problem if there is considerable overlap between what you write for your thesis and what you hand in as course assignment since such overlaps will be difficult to avoid.   
+
 # Program
 
 Two 2-day meetings, one additional meeting and a final conference – if not indicated otherwise we meet at Gløshaugen, Sentralbygg 1, 8th floor.
