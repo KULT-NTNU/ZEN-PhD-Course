@@ -21,10 +21,16 @@ Creating Zero Emission Neighbourhoods is an interdisciplinary task. The course r
 
 You can choose between two modes of participation that will be awarded with 7.5 ECT: 
 
-- Written final report (15-20 pages) based on literature used in lectures and your own project
-- Participation in 66% of meetings + conference paper (8-10 pages) + presentation of paper in final "conference"
+- Written final report (15-20 pages) based on literature used in lectures (at least one central reference in the report should be from the lectures) and your own project. You choose one peer reviewed journal in your field and follow its formal requirements. Please indicate which journal you have chosen when submitting the report.
+- Participation in 66% of meetings + conference paper (6-8 pages) + presentation of paper in final "conference". You choose one peer reviewed conference in your field and follow its formal requirements. Please indicate which conference when submitting the paper.
 
-In both modes the deliverable has to be connected to one of ZEN's pilot areas
+In both modes the deliverable has to be connected to one of ZEN's pilot areas, which means that there should be at least a discussion of what the hypotheses and findings of paper or report mean for at least one of the pilots. 
+
+The deadline for both paper and report is 15 June 2018. If you are writing a report you are free to present in the "conference" as well but there is no obligation to do so. 
+
+The assessment of the papers and reports will be organized as peer review process. You are welcome to suggest one or more peer reviewers that you want to read and comment on your papers or reports. This process may take a while but we will find a solution in case you need the points awarded before the autumn.
+
+Submission happens through e-mail to thomas.berker@ntnu.no
 
 # Program
 
