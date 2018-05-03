@@ -30,7 +30,7 @@ The deadline for both paper and report is 15 June 2018. If you are writing a rep
 
 The assessment of the papers and reports will be organized as peer review process. You are welcome to suggest one or more peer reviewers that you want to read and comment on your papers or reports. This process may take a while but we will find a solution in case you need the points awarded before the autumn.
 
-Submission happens through e-mail to thomas.berker@ntnu.no
+Submission happens through e-mail to thomas.berker@ntnu.no, please indicate by 15 May 2018 whether you would like to present at the final course "conference".
 
 # Program
 
