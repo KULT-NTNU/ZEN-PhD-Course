@@ -108,9 +108,33 @@ Introductory lectures summarizing basic facts and describing the most common app
 
 **Miniconference: ZEN PhD fellows present their coursepapers**
 
-- 09.00-10.00: Keynote speaker (N.N.)
-- 12 x 30 m presentations by the participants
-- Conference dinner in the evening
+*09:00-09:30* Thomas: PhD students at academic conferences, a primer
+
+*09.30-10:00* Shabnam: Resilient Zero Emission Neighbourhoods
+
+*10:00-10:30* Dimitri: Cost Optimal Design of ZENs Energy System: Model Presentation and Case Study on Evenstad
+
+*10:30-10:45* Break
+
+*10:45-11:15* Biljana: Daylighting strategy in context of ZEN
+
+*11:15-11:45* Maria: Indoor Air Quality parameters to control Demand Controlled Ventilation in buildings constituting a ZEN
+
+*11:45-12:30* Lunch
+
+*12:30-13:00* Elena: Reliability and performance gap of building performance simulation tools in modelling double skin facades
+
+*13:00-13:30* Eirik: :-)
+
+*13:30-13:45* Break
+
+*13:45-14:15* Jakub: Next brick/block for the transient simulations of the zero-emission neighborhood users
+
+*14:15-14:45* Stian: The Value of Local Energy Assets in a Zero Emission Neighbourhood in Norway (etter kl. 11)
+
+14:45-15:00 Concluding discussion: "Next time the PhD course should...."
+
+19:00 Conference dinner in the evening
 
 # Literature
 
