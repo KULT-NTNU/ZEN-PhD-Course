@@ -122,7 +122,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - *14:30-15:00* Jakub: Next brick/block for the transient simulations of the zero-emission neighborhood users
 - *15:00-15:30* Stian: The Value of Local Energy Assets in a Zero Emission Neighbourhood in Norway
 
-19:00 Conference dinner in the evening
+19:00 Conference dinner
 
 # Literature
 
