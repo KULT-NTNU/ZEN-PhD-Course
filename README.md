@@ -108,20 +108,19 @@ Introductory lectures summarizing basic facts and describing the most common app
 
 **Miniconference: ZEN PhD fellows present their coursepapers**
 
-- *09:00-09:30* Thomas: PhD students at academic conferences, a primer
+- *09:00-09:30* Kristian: Behind the clouds the sky is always blue
 - *09.30-10:00* Shabnam: Resilient Zero Emission Neighbourhoods
 - *10:00-10:30* Dimitri: Cost Optimal Design of ZENs Energy System: Model Presentation and Case Study on Evenstad
-- *10:30-10:45* Break
-- *10:45-11:15* Biljana: Daylighting strategy in context of ZEN
-- *11:15-11:45* Maria: Indoor Air Quality parameters to control Demand Controlled Ventilation in buildings constituting a ZEN
-- *11:45-12:15* Lunch
-- *12:15-12:45* Elena: Reliability and performance gap of building performance simulation tools in modelling double skin facades
+- *10:30-11:00* Niels: Use of Web API's as a tool for building-building interaction in  Zero Emission Neighbourhoods
+- *11:00-11:30* Biljana: Daylighting strategy in context of ZEN
+- *11:30-12:00* Maria: Indoor Air Quality parameters to control Demand Controlled Ventilation in buildings constituting a ZEN
+- *12:00-12:30* Lunch
+- *12:30-13:00* Elena: Reliability and performance gap of building performance simulation tools in modelling double skin facades
 - *13:00-13:30* Eirik: X
 - *13:30-14:00* Carine: Y
-- *14:00-14:15* Break
-- *14:15-14:45* Jakub: Next brick/block for the transient simulations of the zero-emission neighborhood users
-- *14:45-15:15* Stian: The Value of Local Energy Assets in a Zero Emission Neighbourhood in Norway (etter kl. 11)
-- *15:15-15:30* Concluding discussion: "Next time the PhD course should...."
+- *14:00-14:30* Ruslan: Peak electric load shaving in ZEN facilitated by battery storage solutions
+- *14:30-15:00* Jakub: Next brick/block for the transient simulations of the zero-emission neighborhood users
+- *15:00-15:30* Stian: The Value of Local Energy Assets in a Zero Emission Neighbourhood in Norway
 
 19:00 Conference dinner in the evening
 
