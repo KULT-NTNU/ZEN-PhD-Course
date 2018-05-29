@@ -117,7 +117,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 - *12:00-12:30* Lunch
 - *12:30-13:00* Elena: Reliability and performance gap of building performance simulation tools in modelling double skin facades
 - *13:00-13:30* Eirik: X
-- *13:30-14:00* Carine: Y
+- *13:30-14:00* Carine: LCA methods for zero emission neighbourhood concepts in smart cities: Technological improvements, user behaviour and functional unit
 - *14:00-14:30* Ruslan: Peak electric load shaving in ZEN facilitated by battery storage solutions
 - *14:30-15:00* Jakub: Next brick/block for the transient simulations of the zero-emission neighborhood users
 - *15:00-15:30* Stian: The Value of Local Energy Assets in a Zero Emission Neighbourhood in Norway
