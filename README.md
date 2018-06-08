@@ -1,14 +1,3 @@
-# News
-
-## The winner is...
-
-The international interdisciplinary panel has decided that everyone is a winner. Congratulations and best of luck for the future!
-
-## Doodle has spoken:
-
-- the [April meeting](https://doodle.com/poll/vu95358tvcr9zt45): is 25. April
-- the [final meeting/conference](https://doodle.com/poll/88zdnp3iyt3fptay): is 30. May
-
 # About the course
 
 This PhD course is open for everyone with a master degree (or equivalent) interested in Zero Emission Neighbourhoods. It is obligatory for ZEN PhD fellows, ZEN researchers and postdocs are welcome to join. 
@@ -73,7 +62,7 @@ Introductory lectures summarizing basic facts and describing the most common app
 
 - 09.00-09.15: Introduction
 - 09.15-10.30: A short history of modern city planning (Terje Finstad, NTNU) [slides](cities.pptx)
-- 10.45-11.30: Planning Instruments for Smart Energy Communities (Brita Fladvad Nielsen, PISEC project, NTNU)
+- 10.45-11.30: Diskusjon 
 - 11.30-12.15: *Smart* cities, the ICT perspective, part I (introduced by Thomas Berker)
 - 12.15-12.45: Lunch
 - 12.45-13.15: *Smart* cities, the ICT perspective, part II
